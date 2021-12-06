@@ -1,0 +1,19 @@
+:icons: font
+
+= Dead by Daylight FPS Unlocker
+
+This is a small tool to help bypass the default 60 FPS Limit in Dead By Daylight.
+
+
+=== Is this... legal?
+
+* [x] Yes
+* [x] Of Course
+* [x] All of the Above
+
+
+The tool works by editing a configuration file from the game to disable VSync and set your wanted frame limit. This is not bannable or prohibited in any way, all changes can be made with a simple text editor.
+
+=== Why don't just edit the text file if it's that easy?
+
+I'm a lazy person and some updates reset my config file. So I wrote this tool to do all the work in one click.
