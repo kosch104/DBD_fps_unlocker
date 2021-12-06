@@ -5,6 +5,12 @@
 This is a small tool to help bypass the default 60 FPS Limit in Dead By Daylight.
 
 
+=== How to use
+
+Click on https://github.com/kosch104/DBD_fps_unlocker/releases[Releases] and Download the latest version. It's a single file, just save it anywhere you want.
+
+Execute the file - the preset path should work fine for most people. Just enter the number of FPS you want your limit to be and press the button. Done!
+
 === Is this... legal?
 
 * [x] Yes
@@ -17,3 +23,8 @@ The tool works by editing a configuration file from the game to disable VSync an
 === Why don't just edit the text file if it's that easy?
 
 I'm a lazy person and some updates reset my config file. So I wrote this tool to do all the work in one click.
+
+
+
+=== Other information
+Icon made by https://www.flaticon.com/authors/smashicons[Smashicons] from https://www.flaticon.com/[Flaticon]
