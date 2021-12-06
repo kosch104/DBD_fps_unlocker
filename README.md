@@ -10,7 +10,7 @@ This is a small tool to help bypass the default 60 FPS Limit in Dead By Daylight
 
 ## How to use
 
-Click on [Releases](https://github.com/kosch104/DBD_fps_unlocker/releases) and Download the latest version. It's a single file, just save it anywhere you want.
+Click on [Releases](https://github.com/kosch104/DBD_fps_unlocker/releases) and download the latest version. It's a single file, just save it anywhere you want.
 
 Execute the file - the preset path should work fine for most people. Just enter the number of FPS you want your limit to be and press the button. Done!
 
